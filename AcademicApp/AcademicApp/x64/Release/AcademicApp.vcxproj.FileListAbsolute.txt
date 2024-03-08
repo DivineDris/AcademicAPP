@@ -1,0 +1,3 @@
+F:\Repos\AcademicAPP\AcademicApp\AcademicApp\x64\Release\AcademicApp.vcxproj.AssemblyReference.cache
+F:\Repos\AcademicAPP\AcademicApp\AcademicApp\x64\Release\AcademicApp.MainForm.resources
+F:\Repos\AcademicAPP\AcademicApp\AcademicApp\x64\Release\AcademicApp.vcxproj.GenerateResource.cache

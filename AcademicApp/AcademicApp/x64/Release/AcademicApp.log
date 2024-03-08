@@ -1,0 +1,8 @@
+﻿  MainForm.cpp
+  MainForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  AcademicApp.vcxproj -> F:\Repos\AcademicAPP\AcademicApp\x64\Release\AcademicApp.exe
+  F:\Repos\AcademicAPP\libraries\mysql-connector-c++-8.3.0-winx64\lib64\libcrypto-3-x64.dll
+  F:\Repos\AcademicAPP\libraries\mysql-connector-c++-8.3.0-winx64\lib64\libssl-3-x64.dll
+  F:\Repos\AcademicAPP\libraries\mysql-connector-c++-8.3.0-winx64\lib64\mysqlcppconn-9-vs14.dll
+  F:\Repos\AcademicAPP\libraries\mysql-connector-c++-8.3.0-winx64\lib64\mysqlcppconn8-2-vs14.dll
+  Скопировано файлов: 4.
